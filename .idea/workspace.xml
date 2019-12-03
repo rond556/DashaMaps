@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DashaMapOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DashaMapThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/DashaMapTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/HashMapFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/HashMapX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/DashaMapOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/DashaMapThreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/DashaMapTwoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/word-list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/word-list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/word-list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/word-list.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -98,8 +82,8 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/.idea/stuff" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
@@ -223,7 +207,7 @@
       <workItem from="1565357963802" duration="4390000" />
       <workItem from="1574370537767" duration="968000" />
       <workItem from="1575219940033" duration="7173000" />
-      <workItem from="1575241323471" duration="1373000" />
+      <workItem from="1575241323471" duration="2364000" />
     </task>
     <servers />
   </component>
@@ -259,29 +243,29 @@
       <screen x="-309" y="-1080" width="1920" height="1080" />
     </state>
     <state x="439" y="-674" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575225610115" />
-    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1575243175446">
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1575244306932">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227027873" />
-    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575243175446" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575244306932" />
     <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1280.777/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227210239" />
-    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1575243175444">
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1575244306931">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227027870" />
-    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575243175444" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1575244306931" />
     <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1280.777/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227210238" />
-    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1575243175443">
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1575244306930">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227027869" />
-    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575243175443" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1575244306930" />
     <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1280.777/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227210237" />
-    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1575243175445">
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1575244306931">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1280.800/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227027871" />
-    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575243175445" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1575244306931" />
     <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1280.777/-309.-1080.1920.1080@-309.-1080.1920.1080" timestamp="1575227210238" />
     <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1575227210242">
       <screen x="-309" y="-1080" width="1920" height="1080" />
